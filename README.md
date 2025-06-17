@@ -5,8 +5,8 @@
 - 📚 4th Semester Student at UIN Sunan Kalijaga Yogyakarta
 - 💼 Part-time: Online Driver
 - 🌱 Currently learning: Web Development
-- 🚀 Current Project: PPDB MAN 1 Musi Rawas (Student Admission System)
-- 💻 Project Link: [PPDB System](https://github.com/hanipubaidur/PPDB)
+- 🚀 Current Project: MoneyFlow (Personal Finance Recorder)
+- 💻 Project Link: [MoneyFlow](https://github.com/hanipubaidur/MoneyFlow)
 
 ### 📚 Education
 #### UIN Sunan Kalijaga Yogyakarta | Bachelor's Degree in Informatics | 2023 - Present
@@ -15,10 +15,10 @@
 - Key Courses: Programming Fundamentals, Web Development, Database Systems
 
 ### 🛠️ Projects
-#### PPDB MAN 1 Musi Rawas | Student Admission System
-- Developing a web-based student admission system
+#### MoneyFlow | Personal Finance Recorder
+- Developing a web-based Personal Finance Recorder
 - Technologies used: PHP, MySQL, Bootstrap, JavaScript
-- Status: In Progress
+- Status: Done
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hanipubaidur)
 
@@ -33,9 +33,9 @@
 </p>
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanif-ubaidur-rohman-syah)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/R4YHHZCP3DJAP1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hanifurohman05@gmail.com)
 
 ### 📊 GitHub Stats
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hanipubaidur"/>
