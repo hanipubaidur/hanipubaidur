@@ -10,7 +10,7 @@
 
 ### 📚 Education
 #### UIN Sunan Kalijaga Yogyakarta | Bachelor's Degree in Informatics | 2023 - Present
-- Semester: 4
+- Semester: 5
 - Focus: Web Development and Programming
 - Key Courses: Programming Fundamentals, Web Development, Database Systems
 
