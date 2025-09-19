@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Education: Currently pursuing Bachelor's Degree in Informatics
-- 📚 4th Semester Student at UIN Sunan Kalijaga Yogyakarta
+- 📚 5th Semester Student at UIN Sunan Kalijaga Yogyakarta
 - 💼 Part-time: Online Driver
 - 🌱 Currently learning: Web Development
 - 🚀 Current Project: MoneyFlow (Personal Finance Recorder)
