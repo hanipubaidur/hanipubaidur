@@ -20,6 +20,11 @@
 - Technologies used: Laravel, Vue.js, Tailwind CSS, Supabase
 - Status: In Development
 
+#### KalkulatorMaxim | High-Precision Tariff Calculator
+- A high-precision tariff calculator for Maxim services (Bike, Bike Delivery, & Car) built with vanilla web technologies.
+- Technologies used: HTML, CSS, JavaScript
+- Status: Done
+
 #### MoneyFlow | Personal Finance Recorder
 - A web-based Personal Finance Recorder to track income and expenses.
 - Technologies used: PHP, MySQL, Bootstrap, JavaScript
