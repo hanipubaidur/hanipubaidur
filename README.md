@@ -46,11 +46,11 @@
 
 ### 📊 GitHub Activity & Trophies
 
-![Hanif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanipubaidur&show_icons=true&theme=radical&v=1)
+![Hanif's GitHub Stats](https://github-readme-stats.shion.dev/api?username=hanipubaidur&show_icons=true&theme=radical&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanipubaidur&layout=compact&theme=radical&v=1)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=hanipubaidur&layout=compact&theme=radical&v=2)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hanipubaidur&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=1)
+![Hanif's GitHub Streak](https://streak-stats.demolab.com/?user=hanipubaidur&theme=radical&hide_border=true)
 
 ---
 
